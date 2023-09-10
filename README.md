@@ -8,3 +8,7 @@ Spaceで弾を発射、左右上下キーで移動できます。
 
 
 
+https://github.com/Minogame321/2Dshooting/assets/128656868/a7aa0eeb-09e5-4abf-a53e-63182183ed26
+
+
+
